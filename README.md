@@ -1,5 +1,5 @@
 - 👋 Hello! I’m @Kerleyt00
-- 👀 I’m interested in computer networks (MPLS, BGP, Network Security and anything involving pusing packets)
+- 👀 I’m interested in computer networks (MPLS, BGP, Network Security and anything involving pushing packets)
 - 🌱 I’m currently learning how to make my life easier with Python, ansible and NAPLAM 
 - 💞️ I’m looking to collaborate on (Not desided on anything yet) 
 - 📫 Reach me via E-mail 
