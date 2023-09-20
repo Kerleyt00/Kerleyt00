@@ -1,6 +1,6 @@
 - 👋 Hello! I’m @Kerleyt00
 - 👀 I’m interested in computer networks (MPLS, BGP, Network Security and anything involving pushing packets)
-- 🌱 I’m currently learning how to make my life easier with Python, ansible and NAPLAM. However, recently I'm trying my hand at bash scripting and powershell recently.  
+- 🌱 I’m currently learning how to make my life easier with Python, ansible with NAPLAM. However, recently I'm trying my hand at bash scripting and powershell recently.  
 - 💞️ I’m looking to collaborate on (Not desided on anything yet) 
 - 📫 Reach me via E-mail or LinkedIn
 
